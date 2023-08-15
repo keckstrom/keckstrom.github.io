@@ -17,45 +17,51 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Genentech",
+      "position": "Bioinformatics Analyst",
+      "url": "",
+      "startDate": "2021",
+      "endDate": "present",
+      "summary": "Bioinformatics analyst within the Early Research & Development arm of Genentech.
+Maintained and added features to production workflows for analysis of clinical trial, preclinical,
+and safety assessment data, from sample registration to final deliverable. Involved in cloud
+migration efforts & strategy, benchmarking of new tools and workflows, and development of
+visualization applications for company-wide use.",
       "highlights": [
-        "Relativity"
+        "R, bash, nextflow, python, Jira"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Vermont, Vermont, US",
+      "url": "https://www.uvm.edu",
+      "area": "Animal & Veterinary Sciences",
+      "studyType": "MSc",
+      "startDate": "2015",
+      "endDate": "2018",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Thesis: Evaluating The Resistome And Microbial Composition During Food Waste Feeding
+And Composting On A Vermont Poultry Farm"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Northeast SARE Research Grant ",
+      "date": "2017",
+      "awarder": "GNE16-117",
+      "summary": "Table to Farm: Using Shotgun Metagenomics to Quantify Antibiotic Resistance on
+Farms Feeding Food Scraps to Laying Hens"
     }
   ],
   "certificates": [],
@@ -63,12 +69,12 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "Spanish",
+      "fluency": "Conversational"
     }
   ],
   "interests": [],

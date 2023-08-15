@@ -1,35 +1,35 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Korin Eckstrom",
+    "label": "Bioinformatician",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "korin.m.eckstrom@gmail.com",
+    "url": "https://keckstrom.github.io/",
+    "summary": "Experienced bioinformatician with a demonstrated history of working in both the biotech/pharma industry & academic settings. Skilled in R & Statistical Data Analysis, Whole Exome Sequencing, Metagenomics, RNA-seq, and other forms of Next Generation sequencing. Experience working with data from major sequencing platforms, including Illumina, Oxford Nanopore, and PacBio.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Burlington",
       "countryCode": "US",
-      "region": "California"
+      "region": "Vermont"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "k_eckstrom",
+        "url": "https://twitter.com/k_eckstrom"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Genentech",
+      "position": "Bioinformatics Analyst",
+      "startDate": "2021",
+      "endDate": "present",
+      "summary": "Bioinformatics analyst within the Early Research & Development arm of Genentech.
+Maintained and added features to production workflows for analysis of clinical trial, preclinical,
+and safety assessment data, from sample registration to final deliverable. Involved in cloud
+migration efforts & strategy, benchmarking of new tools and workflows, and development of
+visualization applications for company-wide use.",
       "highlights": [
         "Relativity"
       ]
@@ -38,24 +38,26 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Vermont, Burlington, Vermont, US",
+      "url": "https://www.uvm.edu/",
+      "area": "Animal & Veterinary Sciences",
+      "studyType": "MSc",
+      "startDate": "2015",
+      "endDate": "2018",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Evaluating The Resistome And Microbial Composition During Food Waste Feeding
+And Composting On A Vermont Poultry Farm"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Northeast SARE Research Grant",
+      "date": "2017",
+      "awarder": "GNE16-117 ",
+      "summary": "Table to Farm: Using Shotgun Metagenomics to Quantify Antibiotic Resistance on
+Farms Feeding Food Scraps to Laying Hens"
     }
   ],
   "certificates": [],
@@ -63,12 +65,16 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "language": "R",
+      "fluency": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "Bash",
+      "fluency": ""
+    },
+    {
+      "language": "Python",
+      "fluency": ""
     }
   ],
   "interests": [],

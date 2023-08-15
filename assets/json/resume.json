@@ -52,25 +52,16 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Northeast SARE Research Grant",
+      "date": "2017",
+      "awarder": "GNE16-117",
+      "summary": "Table to Farm: Using Shotgun Metagenomics to Quantify Antibiotic Resistance on Farms Feeding Food Scraps to Laying Hens"
     }
   ],
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []

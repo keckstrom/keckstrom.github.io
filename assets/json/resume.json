@@ -8,11 +8,11 @@
     "url": "https://keckstrom.github.io/",
     "summary": "Experienced bioinformatician with a demonstrated history of working in both the biotech/pharma industry & academic settings. Skilled in R & Statistical Data Analysis, Whole Exome Sequencing, Metagenomics, RNA-seq, and other forms of Next Generation sequencing. Experience working with data from major sequencing platforms, including Illumina, Oxford Nanopore, and PacBio.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Burlington",
       "countryCode": "US",
-      "region": "California"
+      "region": "Vermont"
     },
     "profiles": [
       {
@@ -24,18 +24,14 @@
   },
   "work": [
     {
-      "name": "Genentech",
-      "position": "Bioinformatics Analyst",
-      "url": "",
-      "startDate": "2021",
-      "endDate": "present",
-      "summary": "Bioinformatics analyst within the Early Research & Development arm of Genentech.
-Maintained and added features to production workflows for analysis of clinical trial, preclinical,
-and safety assessment data, from sample registration to final deliverable. Involved in cloud
-migration efforts & strategy, benchmarking of new tools and workflows, and development of
-visualization applications for company-wide use.",
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": [
-        "R, bash, nextflow, python, Jira"
+        "Relativity"
       ]
     }
   ],

@@ -4,32 +4,32 @@
     "label": "Bioinformatician",
     "image": "",
     "email": "korin.m.eckstrom@gmail.com",
+    "phone": "",
     "url": "https://keckstrom.github.io/",
     "summary": "Experienced bioinformatician with a demonstrated history of working in both the biotech/pharma industry & academic settings. Skilled in R & Statistical Data Analysis, Whole Exome Sequencing, Metagenomics, RNA-seq, and other forms of Next Generation sequencing. Experience working with data from major sequencing platforms, including Illumina, Oxford Nanopore, and PacBio.",
     "location": {
-      "city": "Burlington",
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
       "countryCode": "US",
-      "region": "Vermont"
+      "region": "California"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "k_eckstrom",
-        "url": "https://twitter.com/k_eckstrom"
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
   "work": [
     {
-      "name": "Genentech",
-      "position": "Bioinformatics Analyst",
-      "startDate": "2021",
-      "endDate": "present",
-      "summary": "Bioinformatics analyst within the Early Research & Development arm of Genentech.
-Maintained and added features to production workflows for analysis of clinical trial, preclinical,
-and safety assessment data, from sample registration to final deliverable. Involved in cloud
-migration efforts & strategy, benchmarking of new tools and workflows, and development of
-visualization applications for company-wide use.",
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": [
         "Relativity"
       ]
@@ -38,26 +38,24 @@ visualization applications for company-wide use.",
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Vermont, Burlington, Vermont, US",
-      "url": "https://www.uvm.edu/",
-      "area": "Animal & Veterinary Sciences",
-      "studyType": "MSc",
-      "startDate": "2015",
-      "endDate": "2018",
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
       "score": "",
       "courses": [
-        "Evaluating The Resistome And Microbial Composition During Food Waste Feeding
-And Composting On A Vermont Poultry Farm"
+        "Theory of Relativity"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Northeast SARE Research Grant",
-      "date": "2017",
-      "awarder": "GNE16-117 ",
-      "summary": "Table to Farm: Using Shotgun Metagenomics to Quantify Antibiotic Resistance on
-Farms Feeding Food Scraps to Laying Hens"
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [],
@@ -65,16 +63,12 @@ Farms Feeding Food Scraps to Laying Hens"
   "skills": [],
   "languages": [
     {
-      "language": "R",
-      "fluency": ""
+      "language": "German",
+      "fluency": "Native speaker"
     },
     {
-      "language": "Bash",
-      "fluency": ""
-    },
-    {
-      "language": "Python",
-      "fluency": ""
+      "language": "English",
+      "fluency": "Fluent"
     }
   ],
   "interests": [],

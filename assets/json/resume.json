@@ -33,6 +33,17 @@
       "highlights": [
         "R, bash, git, Nextflow, Python, Jira"
       ]
+    },
+    {
+      "name": "University of Vermont, Larner College of Medicine",
+      "position": "Researcher/Analyst, Bioinformatics Shared Resource",
+      "url": "",
+      "startDate": "2018",
+      "endDate": "2022",
+      "summary": "Member of the Bioinformatics Shared Resource branch of VIGR and Colgate Labs within the Larner College of Medicine, serving stakeholders in colleges across the university at large. Responsible for assisting in design, data management & delivery, and analysis for customers of the VIGR core facility, partners at numerous medical centers, and Vermont state entities. Assistant instructor in courses taught by VIGR faculty, including MMG 231 and 232.",
+      "highlights": [
+        "Metagenomics, single-cell & bulk RNA sequencing, long-read seqeucncing, statistical analysis, study design, teaching"
+      ]
     }
   ],
   "volunteer": [],

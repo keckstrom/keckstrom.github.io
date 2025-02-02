@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Bioinformatics Analyst at Genentech in the Early Research & Development arm. My work is focused on improving data utility and cloud computing, providing bioinformatics support to scientists and analysts across clinical trials and multi-modal data types for actionable insights.
+I am currently a Bioinformatics Programmer & Analyst at Genentech in the Early Research & Development arm. My work is focused on improving data utility and cloud computing, providing bioinformatics support to scientists and analysts across clinical trials and multi-modal data types for actionable insights.
 
 Primarily focused on whole exome sequencing and ctDNA/cfDNA assays, I develop workflows (Nextflow/Snakemake/WDL) that streamline & distill high-dimensional data in order to provide analysis-ready objects to stakeholders while maintaining end-to-end provenance of metadata. Currently working towards the migration of HPC & slurm managed workflows to AWS, focusing on efficiency and cost without sacrificing data quality and accessibility.
 

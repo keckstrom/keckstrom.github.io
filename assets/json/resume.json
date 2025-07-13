@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Korin Eckstrom",
-    "label": "Bioinformatician",
+    "label": "Bioinformatics Engineer",
     "image": "",
     "email": "korin.m.eckstrom@gmail.com",
     "phone": "",
     "url": "https://keckstrom.github.io/",
-    "summary": "Experienced bioinformatician with a demonstrated history of working in both the biotech/pharma industry & academic settings. Skilled in R & Statistical Data Analysis, Whole Exome Sequencing, Metagenomics, RNA-seq, and other forms of Next Generation sequencing. Experience working with data from major sequencing platforms, including Illumina, Oxford Nanopore, and PacBio.",
+    "summary": "Experienced bioinformatician with a demonstrated history of working in both the biotech/pharma industry & academic settings. Experience developing workflows in multiple languages, statistical analysis and visualization with R & Python, and processing multi-modal omics data including Whole Exome and Genome Sequencing, Metagenomics, single-cell and bulk RNA-seq, and more with data from major platforms including Illumina, Oxford Nanopore, and PacBio.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -25,13 +25,13 @@
   "work": [
     {
       "name": "Genentech",
-      "position": "Bioinformatics Analyst",
+      "position": "Bioinformatics Analyst & Programmer",
       "url": "",
       "startDate": "2022",
       "endDate": "2023",
       "summary": "Bioinformatician within Early Research & Development. Maintained & developed production level workflows for analysis of clinical, preclinical, and safety assessment data. Involved in cloud migration & framework, benchmarking of new tools and workflows, and development of visualization applications.",
       "highlights": [
-        "R, bash, git, Nextflow, Python, Jira"
+        "R, Python, Nextflow, Snakemake, WDL, bash, git, Jira"
       ]
     },
     {
@@ -51,7 +51,7 @@
     {
       "institution": "University of Vermont, USA",
       "url": "https://www.uvm.edu/",
-      "area": "Animal & Veterinary Sciences",
+      "area": "Animal Biosciences",
       "studyType": "MSc",
       "startDate": "2015",
       "endDate": "2018",
@@ -75,5 +75,8 @@
   "languages": [],
   "interests": [],
   "references": [],
-  "projects": []
+  "projects": [{
+    "title":"s3tools R package",
+    "url": "https://github.com/keckstrom/s3tools"
+  }]
 }

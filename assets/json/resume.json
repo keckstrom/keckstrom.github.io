@@ -28,7 +28,7 @@
       "position": "Bioinformatics Analyst & Programmer",
       "url": "",
       "startDate": "2022",
-      "endDate": "2023",
+      "endDate": "Present",
       "summary": "Bioinformatician within Early Research & Development. Maintained & developed production level workflows for analysis of clinical, preclinical, and safety assessment data. Involved in cloud migration & framework, benchmarking of new tools and workflows, and development of visualization applications.",
       "highlights": [
         "R, Python, Nextflow, Snakemake, WDL, bash, git, Jira"
@@ -75,8 +75,12 @@
   "languages": [],
   "interests": [],
   "references": [],
-  "projects": [{
-    "title":"s3tools R package",
-    "url": "https://github.com/keckstrom/s3tools"
-  }]
+  "projects": [
+    {
+      "name": "s3tools R package",
+      "startDate": "2025",
+      "endDate": "Present",
+      "url": "https://github.com/keckstrom/s3tools"
+    }
+  ]
 }

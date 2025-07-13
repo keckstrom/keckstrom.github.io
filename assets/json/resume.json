@@ -29,9 +29,9 @@
       "url": "",
       "startDate": "2022",
       "endDate": "Present",
-      "summary": "Bioinformatician within Early Research & Development. Maintained & developed production level workflows for analysis of clinical, preclinical, and safety assessment data. Involved in cloud migration & framework, benchmarking of new tools and workflows, and development of visualization applications.",
+      "summary": "Bioinformatician within Early Research & Development. Created & deployed production level workflows for analysis of clinical, preclinical, and safety assessment data. Involved in cloud migration & framework, benchmarking of new tools and workflows, and development of visualization applications and analysis packages.",
       "highlights": [
-        "R, Python, Shiny, Bash, SQL","Nextflow, Snakemake, WDL","Git, CI/CD, Containers, RESTful APIs, FastAPI, Jira","AWS"
+       "R, Python, Nextflow, Snakemake, WDL, bash, git, Jira, Docker, CI/CD"
       ]
     },
     {
@@ -42,7 +42,7 @@
       "endDate": "2022",
       "summary": "Member of the Bioinformatics Shared Resource branch of VIGR and Colgate Labs within the Larner College of Medicine, serving stakeholders in colleges across the university at large. Responsible for assisting in design, data management & delivery, and analysis for customers of the VIGR core facility, partners at numerous medical centers, and Vermont state entities. Assistant instructor in courses taught by VIGR faculty, including MMG 231 and 232.",
       "highlights": [
-        "Pipeline development & processing of metagenomics, transcriptomics, structural variants, and other assays to meet user needs","Long-read sequencing","Study design and statistical analysis","Bacterial Genetics"
+         "Metagenomics, single-cell & bulk RNA sequencing, long-read sequecncing, statistical analysis, study design, teaching"
       ]
     }
   ],

@@ -31,8 +31,7 @@
       "endDate": "Present",
       "summary": "Bioinformatician within Early Research & Development. Maintained & developed production level workflows for analysis of clinical, preclinical, and safety assessment data. Involved in cloud migration & framework, benchmarking of new tools and workflows, and development of visualization applications.",
       "highlights": [
-        "Programming languages: R, Python, Shiny, Bash, SQL","Workflow management: Nextflow, Snakemake, WDL","Development Practices & Tools: Git, CI/CD, Containers (Docker, Singularity, Podman), Semantic
-Versioning, RESTful APIs, FastAPI, Jira","Cloud Computing: AWS Batch & Omics, ECR, Step & Lambda functions, IAM roles, s3 Storage","Data-centric: Wrangling, Transformation (ETL), Visualization, and Cataloging"
+        "R, Python, Shiny, Bash, SQL","Nextflow, Snakemake, WDL","Git, CI/CD, Containers, RESTful APIs, FastAPI, Jira","AWS"
       ]
     },
     {
